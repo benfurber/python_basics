@@ -1,6 +1,0 @@
-[
-  "test_fizzbuzz.py::TestClass::()::test_return_normal_number", 
-  "test_fizzbuzz.py::TestClass::()::test_return_fizz_when_a_multiple_of_three", 
-  "test_fizzbuzz.py::TestClass::()::test_return_buzz_when_a_multiple_of_five", 
-  "test_fizzbuzz.py::TestClass::()::test_return_fizzbuzz_when_a_multiple_of_three_and_five"
-]
